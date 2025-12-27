@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://github.com/SEU_USUARIO/SEU_REPOSITORIO/releases/download/v1.0.0/monitor.exe",
+  "mandatory": false,
+  "changelog": [
+    "✅ Primeira versão estável",
+    "🔧 Sistema de atualização automática",
+    "📦 Webhooks Discord integrados",
+    "⚡ Mensagens programadas por intervalo",
+    "🎮 Gerenciador RCON completo"
+  ]
+}
