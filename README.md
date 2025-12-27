@@ -38,3 +38,48 @@ Contador regressivo visual até próximo restart
 Log detalhado de todas as operações
 Status do servidor em tempo real
 Sistema de notificações Discord
+
+---------------------------------------------------------------
+
+## 📜 Licença e Termos de Uso
+
+### 🆓 **Versão FREE**
+- ✅ Uso pessoal permitido
+- ✅ Instalação em múltiplos servidores
+- ❌ Redistribuição proibida
+- ❌ Modificação do código proibida
+- ❌ Revenda proibida
+
+### 💎 **Versão VIP**
+- ✅ Todos os recursos FREE
+- ✅ Recursos exclusivos VIP
+- ✅ Suporte prioritário
+- ❌ Redistribuição proibida
+- ❌ Compartilhamento de credenciais proibido
+
+### ⚠️ **AVISO IMPORTANTE**
+
+Este software é fornecido "como está", sem garantias de qualquer tipo. O autor não se responsabiliza por:
+- Perda de dados
+- Problemas no servidor
+- Danos diretos ou indiretos
+- Incompatibilidade com mods/plugins
+
+### 🚫 **Proibições**
+
+É **EXPRESSAMENTE PROIBIDO**:
+- ❌ Redistribuir o software (gratuita ou comercialmente)
+- ❌ Descompilar ou fazer engenharia reversa
+- ❌ Remover avisos de copyright
+- ❌ Revender ou sublicenciar
+- ❌ Compartilhar credenciais VIP
+
+### ⚖️ **Direitos Autorais**
+
+**Copyright © 2025 pr0f1t1 - Todos os direitos reservados.**
+
+O uso deste software implica em aceitação destes termos.
+
+---
+
+
