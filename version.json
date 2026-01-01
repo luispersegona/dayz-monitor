@@ -3,7 +3,7 @@
   "download_url": "https://github.com/luispersegona/dayz-monitor/releases/download/v2.0/DayZMonitor.exe",
   "mandatory": false,
   "changelog": [
-    "✅ Versao 2.0.1",
+    "✅ Versao 2.0.0",
     "🔧 Sistema de atualização automática",
     "📦 Webhooks Discord integrados",
     "⚡ Mensagens programadas por intervalo",
