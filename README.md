@@ -72,7 +72,9 @@ Este software é fornecido "como está", sem garantias de qualquer tipo. O autor
 - ❌ Descompilar ou fazer engenharia reversa
 - ❌ Remover avisos de copyright
 - ❌ Revender ou sublicenciar
-- ❌ Compartilhar credenciais VIP
+- ❌ Compartilhar credenciais VIP =
+- ❌ BAN HWID EM TODOS OS DISPOSITIVOS, IMPEDIDNDO DE USAR EM TODOS OS 
+COMPUTADORES QUE TENTARAM ACESSO.
 
 ### ⚖️ **Direitos Autorais**
 
