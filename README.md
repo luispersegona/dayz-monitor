@@ -45,7 +45,6 @@ Sistema de notificações Discord
 
 ### 🆓 **Versão FREE**
 - ✅ Uso pessoal permitido
-- ✅ Instalação em múltiplos servidores
 - ❌ Redistribuição proibida
 - ❌ Modificação do código proibida
 - ❌ Revenda proibida
@@ -78,7 +77,7 @@ COMPUTADORES QUE TENTARAM ACESSO.
 
 ### ⚖️ **Direitos Autorais**
 
-**Copyright © 2025 pr0f1t1 - Todos os direitos reservados.**
+**Copyright © 2026 pr0f1t1 - Todos os direitos reservados.**
 
 O uso deste software implica em aceitação destes termos.
 
