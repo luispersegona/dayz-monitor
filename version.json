@@ -1,9 +1,9 @@
 {
-  "version": "2.2.0",
+  "version": "3.0.0",
   "download_url": "https://github.com/luispersegona/dayz-monitor/releases/download/v2.2.0/DayZMonitor.exe",
   "mandatory": false,
   "changelog": [
-    "✅ Versao 2.2.0",
+    "✅ Versao 3.0.0",
     "🔧 PROBLEMAS CRÍTICOS CORRIGIDOS",
     "📦 REDUNDÂNCIAS ELIMINADAS",
     "⚡ PROBLEMAS DE PERFORMANCE CORRIGIDOS",
