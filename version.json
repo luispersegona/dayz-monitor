@@ -1,6 +1,6 @@
 {
-  "version": "v3.0.0",
-  "download_url": "https://github.com/luispersegona/dayz-monitor/releases/download/v2.2.0/DayZMonitor.exe",
+  "version": "3.0.0",
+  "download_url": "https://github.com/luispersegona/dayz-monitor/releases/download/v3.0.0/DayZMonitor.exe",
   "mandatory": false,
   "changelog": [
     "✅ Versao 3.0.0",
