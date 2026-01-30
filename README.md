@@ -5,7 +5,7 @@ Sistema de Monitoramento DayZ Server
 ![Stars](https://img.shields.io/github/stars/luispersegona/dayz-monitor?style=for-the-badge)
 
 🚀 O QUE É?
-O DayZMonitor é uma solução completa e automatizada para gerenciar servidores DayZ no Windows. 
+O DayZMonitor é uma solução completa e automatizada para gerenciar servidores DayZ no Windows 10/11.
 Desenvolvido para facilitar a vida de administradores, oferece controle total através de uma interface web moderna e intuitiva.
 
 ✨ RECURSOS PRINCIPAIS
