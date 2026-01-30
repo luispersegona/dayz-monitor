@@ -44,17 +44,21 @@ Sistema de notificações Discord
 ## 📜 Licença e Termos de Uso
 
 ### 🆓 **Versão FREE**
-- ✅ Uso pessoal permitido
-- ❌ Redistribuição proibida
+- ✅ Uso pessoal permitido.
+- ✅ Configure seu servidor direto na ferramenta.
+- ✅ Baixe, verifique , ative e desative MODS direto na ferramenta.
 - ❌ Modificação do código proibida
-- ❌ Revenda proibida
+- ❌ Compartilhamento de credenciais proibido ( BAN NOS 2 DISPOSITIVOS )
 
 ### 💎 **Versão VIP**
-- ✅ Todos os recursos FREE
-- ✅ Recursos exclusivos VIP
-- ✅ Suporte prioritário
-- ❌ Redistribuição proibida
-- ❌ Compartilhamento de credenciais proibido
+- ✅ Todos os recursos FREE.
+- ✅ Atualizacao de MODS automaticamente ( ative e deixe que o DayZMonitor atualiza, reinicie , instale e re-abra seu servidor automaticamente )
+- ✅ Loadouts p/ seu servidor ( GLOBAL ou INDIVIDUAL ) ideal para sistema de vips.
+- ✅ Editor de types interativo, direto na ferramenta. 
+- ✅ Validador de arquivos XML / JSON.
+- ✅ Sistema de tracker ( Veja a posicao dos players em tempo real no mapa ).
+- ✅ Suporte prioritário. 
+- ❌ Compartilhamento de credenciais proibido ( BAN NOS 2 DISPOSITIVOS )
 
 ### ⚠️ **AVISO IMPORTANTE**
 
@@ -67,12 +71,11 @@ Este software é fornecido "como está", sem garantias de qualquer tipo. O autor
 ### 🚫 **Proibições**
 
 É **EXPRESSAMENTE PROIBIDO**:
-- ❌ Redistribuir o software (gratuita ou comercialmente)
-- ❌ Descompilar ou fazer engenharia reversa
-- ❌ Remover avisos de copyright
+- ❌ Redistribuir o software ( comercialmente ). 
+- ❌ Descompilar ou fazer engenharia reversa ( O sistema reconhece e irá BANIR permanentemente o dispositivo )
 - ❌ Revender ou sublicenciar
-- ❌ Compartilhar credenciais VIP =
-- ❌ BAN HWID EM TODOS OS DISPOSITIVOS, IMPEDIDNDO DE USAR EM TODOS OS 
+- ❌ Compartilhar credenciais VIP 
+AO DESCUMPRIR , A FERRAMENTA APLICA O BAN EM TODOS OS DISPOSITIVOS, IMPEDIDNDO DE USAR EM TODOS OS 
 COMPUTADORES QUE TENTARAM ACESSO.
 
 ### ⚖️ **Direitos Autorais**
