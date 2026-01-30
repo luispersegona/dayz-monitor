@@ -47,6 +47,7 @@ Sistema de notificações Discord
 - ✅ Uso pessoal permitido.
 - ✅ Configure seu servidor direto na ferramenta.
 - ✅ Baixe, verifique , ative e desative MODS direto na ferramenta.
+- ✅ Logs detalhados web e com save automático.
 - ❌ Modificação do código proibida
 - ❌ Compartilhamento de credenciais proibido ( BAN NOS 2 DISPOSITIVOS )
 
