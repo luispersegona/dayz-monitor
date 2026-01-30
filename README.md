@@ -9,7 +9,7 @@ ATENCAO 🚨👇 🚨👇 🚨👇 🚨👇 🚨👇
 🛑MAS AS ATUALIZACOES/DOWNLOADS DE MODS PODEM NAO FUNCIONAR CORRETAMENTE.
 
 🛑ENTAO TENHA CIENCIA , QUE A FERRAMENTA NECESSITA PARA O SEU FUNCIONAMENTO CORRETO.
-🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨
+🚨🚨🚨🚨🚨🚨🚨🚨🚨
 
 
 ![Downloads](https://img.shields.io/github/downloads/luispersegona/dayz-monitor/total?style=for-the-badge)
