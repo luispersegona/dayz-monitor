@@ -1,6 +1,14 @@
 # dayz-monitor
 Sistema de Monitoramento DayZ Server
 
+ATENCAO 🚨👇 🚨👇 🚨👇 🚨👇 🚨👇 🚨👇 🚨👇 🚨👇 🚨👇 🚨👇 🚨👇 🚨👇 🚨👇 
+🛑ESTA FERRAMENTA EXIGE 1 CONTA STEAM COM O JOGO ( DayZ Standalone ) COMPRADA.
+🛑ELA ESTA CONFIGURADA PARA TAMBEM TRABALHAR USANDO O LOGIN ( ANONYMOUS, NAO SENDO NECESSÄRIA A CONTA )
+🛑MAS AS ATUALIZACOES/DOWNLOADS DE MODS PODEM NAO FUNCIONAR CORRETAMENTE.
+🛑ENTAO TENHA CIENCIA , QUE A FERRAMENTA NECESSITA PARA O SEU FUNCIONAMENTO CORRETO.
+🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨
+
+
 ![Downloads](https://img.shields.io/github/downloads/luispersegona/dayz-monitor/total?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/luispersegona/dayz-monitor?style=for-the-badge)
 
